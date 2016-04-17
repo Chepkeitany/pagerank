@@ -8,7 +8,7 @@ process.
 You should install the SQLite browser to view and modify 
 the databases from:
 
-![Sqlitebrowser](http://sqlitebrowser.org/)
+[Sqlitebrowser](http://sqlitebrowser.org/)
 
 This program crawls a web site and pulls a series of pages into the
 database, recording the links between pages.
@@ -164,7 +164,7 @@ that is represented by the node.
 
 This visualization is provided using the force layout from:
 
-![D3](http://mbostock.github.com/d3/)
+[D3](http://mbostock.github.com/d3/)
 
 If you rerun the other utilities and then re-run spjson.py - you merely
 have to press refresh in the browser to get the new data from spider.js.
